@@ -2,7 +2,7 @@
 - 👀 I’m interested in Android, Cloud, IoT etc.
 - 🌱 I’m currently learning scala
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me santosh.bisht.dit@gmail.com
+- 📫 Reach me at santosh.bisht.dit@gmail.com
 
 <!---
 santosh-bisht/santosh-bisht is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
